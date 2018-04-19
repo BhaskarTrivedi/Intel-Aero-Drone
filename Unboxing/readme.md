@@ -1,6 +1,6 @@
 This is my first try with drone. At this point of time I don't have any knowledge with drone or robot programming but as we all know robot and drone is future and it is coming a bit earlier this time to us so it's good if we start learning it right now.
 
-Considering this in mind i have order Intel aero drone ready to fly, which is designed for professional developer. It can be used for application development and drone learning. We can flash linux onto it and use it for development.
+Considering this in mind, I have order Intel aero Ready to Fly drone(RFD) , which is designed for professional developer. It can be used for application development and drone learning. We can flash linux onto it and use it for development.
 
 I have made unboxing video and sharing it you guys......
 
