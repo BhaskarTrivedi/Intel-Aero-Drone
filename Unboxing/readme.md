@@ -8,6 +8,6 @@ Very soon.. I will share how to fly this drone untill then keep in touch....
 
 https://github.com/intel-aero/meta-intel-aero/wiki/01-About-Intel-Aero 
 
-[![Intel Aero Ready to Fly Drone (RFD) Unboxing](https://www.youtube.com/watch?v=c5OaTRX93DI)](https://www.youtube.com/watch?v=c5OaTRX93DI)
+[![Intel Aero Ready to Fly Drone (RFD) Unboxing](https://raw.githubusercontent.com/intel-aero/Documents/master/doc_photos/unboxing_Intel_Aero_RTK_kit.jpg)](https://www.youtube.com/watch?v=c5OaTRX93DI)
 
 
