@@ -10,6 +10,10 @@ https://github.com/intel-aero/meta-intel-aero/wiki/01-About-Intel-Aero
 
 Click on image to open unboxin video...
 
+Image source is taken from Intel Aero Drone Wiki..
+https://github.com/intel-aero/meta-intel-aero/wiki/01-About-Intel-Aero
+
+
 [![Intel Aero Ready to Fly Drone (RFD) Unboxing](https://raw.githubusercontent.com/intel-aero/Documents/master/doc_photos/unboxing_Intel_Aero_RTK_kit.jpg)](https://www.youtube.com/watch?v=c5OaTRX93DI)
 
 
