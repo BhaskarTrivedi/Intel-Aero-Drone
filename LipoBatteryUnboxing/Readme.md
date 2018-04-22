@@ -7,9 +7,6 @@ Click on below Image to open Li-po Battery Unboxing
 
 ![](https://github.com/BhaskarTrivedi/Intel-Aero-Drone/blob/master/LipoBatteryUnboxing/IMG_20180421_131932885.jpg)
 
-![](https://github.com/BhaskarTrivedi/Intel-Aero-Drone/blob/master/LipoBatteryUnboxing/IMG_20180421_131931069.jpg)
-
-![](https://github.com/BhaskarTrivedi/Intel-Aero-Drone/blob/master/LipoBatteryUnboxing/IMG_20180421_131942977.jpg)
 
 ![](https://github.com/BhaskarTrivedi/Intel-Aero-Drone/blob/master/LipoBatteryUnboxing/IMG_20180421_131950799.jpg)
 
