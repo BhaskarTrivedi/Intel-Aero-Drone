@@ -9,3 +9,29 @@ I am here listing all required accesories one by one which we need to work upon 
 We can't rely on battery power to work longer on drone which can support maximum 15 minutes of power. We should have one power wall adapter. Power wall adapter is very crucial, so I created a seperate video regarding which wall adapter we should use. Please click on image to open video link.
 
 [![](https://github.com/BhaskarTrivedi/Intel-Aero-Drone/blob/master/Img/IMG_20190201_133545398.jpg)](https://www.youtube.com/watch?v=t9hwIuEgCOU&t=10s)
+
+2) OTG USB cable, required to connect drone to USB hub If you are buying new OTG cable it is always preferable to USB 3.0 cable for fast access. 
+
+![](https://github.com/BhaskarTrivedi/Intel-Aero-Drone/blob/master/Img/IMG_20190201_133449120.jpg)
+![](https://github.com/BhaskarTrivedi/Intel-Aero-Drone/blob/master/Img/IMG_20190201_133507051.jpg)
+
+3) Micro HDMI cable, required to connect drone to HDMI monitor.
+
+![](https://github.com/BhaskarTrivedi/Intel-Aero-Drone/blob/master/Img/IMG_20190201_133519052.jpg)
+![](https://github.com/BhaskarTrivedi/Intel-Aero-Drone/blob/master/Img/IMG_20190201_133559529.jpg)
+
+4) USB mouse, to work on RTF, mouse is essential , USB wired or bluetooth wifi mouse anything will be fine.
+Need to add seperate image..
+
+5) USB keyboard.
+
+Need seperate Image..
+
+6) USB hub, Intel RTF does not come with multiple port to support USB mouse and keyboard we will need one USB hub.
+Need seperate Image...
+
+7) HDMI Monitor , screen is required to have clear view of any development and flashing ubuntu on RTF
+![](https://github.com/BhaskarTrivedi/Intel-Aero-Drone/blob/master/Img/IMG_20190201_133942998.jpg)
+![](https://github.com/BhaskarTrivedi/Intel-Aero-Drone/blob/master/Img/IMG_20190202_145911964.jpg)
+
+
