@@ -84,4 +84,4 @@ Caution: Remove wings from your drone before start
 
 
         
-            
+Reference : https://github.com/intel-aero/meta-intel-aero/wiki/90-(References)-OS-user-Installation 
