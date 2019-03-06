@@ -22,9 +22,9 @@ Caution: Remove wings from your drone before start
 11) I selected clean installation 
 12) Enter username and password
 13) Install ssh<br/>
-    a.	sudo apt-get update<br/>
-    b.	sudo apt-get upgrade<br/>
-    c.	sudo apt-get install openssh-server<br/>
+        a.	sudo apt-get update<br/>
+        b.	sudo apt-get upgrade<br/>
+        c.	sudo apt-get install openssh-server<br/>
 14) Intel aero reprository<br/>
         a.	echo 'deb https://download.01.org/aero/deb xenial main' | sudo tee /etc/apt/sources.list.d/intel-aero.list<br/>
         b.	wget -qO - https://download.01.org/aero/deb/intel-aero-deb.key | sudo apt-key add -<br/>
@@ -35,13 +35,13 @@ Caution: Remove wings from your drone before start
         g.	sudo apt-get -y install aero-system<br/>
         h.	sudo reboot<br/>
  15) Intel Aero Maintenance tools<br/>
-        a.	sudo mkdir /etc/mavlink-router/config.d<br/>
-        b.  create file<br/>
-            sudo gedit /etc/mavlink-router/config.d/qgc.conf <br/>
-        c. Make entry to above file<br/>
-            •	[UdpEndpoint wifi]<br/>
-            •	Mode = Normal<br/>
-            •	Address = Your laptop Ip address<br/>
+            a.	sudo mkdir /etc/mavlink-router/config.d<br/>
+            b.  create file<br/>
+                sudo gedit /etc/mavlink-router/config.d/qgc.conf <br/>
+            c. Make entry to above file<br/>
+                •	[UdpEndpoint wifi]<br/>
+                •	Mode = Normal<br/>
+                •	Address = Your laptop Ip address<br/>
         d. Flash BIOS<br/>
             •	sudo aero-bios-update<br/>
             •	sudo reboot<br/>
