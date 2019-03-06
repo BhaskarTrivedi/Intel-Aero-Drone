@@ -60,27 +60,27 @@ Caution: Remove wings from your drone before start
         •	sudo mv BIOSUPDATE.fv /boot<br/>
         •	sudo reboot<br/>
         
-        e. FPGA<br/>
+     e. FPGA<br/>
         
-            •	sudo jam -aprogram /etc/fpga/ aero-compute-board.jam<br/>
+        •	sudo jam -aprogram /etc/fpga/ aero-compute-board.jam<br/>
             
-        f. Flight Controller
+     f. Flight Controller
         
-            •	cd /etc/aerofc/px4/<br/>
-            •	sudo aerofc-update.sh nuttx-aerofc-v1-default.px4<br/>
-                Trouble shoot<br/>
-                    •	If getting attempting reboot error thr to install recorevry FPGA from /etc/fpga<br/>
+        •	cd /etc/aerofc/px4/<br/>
+        •	sudo aerofc-update.sh nuttx-aerofc-v1-default.px4<br/>
+            Trouble shoot<br/>
+            •	If getting attempting reboot error thr to install recorevry FPGA from /etc/fpga<br/>
                     
-        g. Intel RealSense SDK<br/>
+     g. Intel RealSense SDK<br/>
         
-            •	sudo apt-get -y install git libusb-1.0-0-dev pkg-config libgtk-3-dev libglfw3-dev cmake<br/>
-            •	git clone -b legacy --single-branch https://github.com/IntelRealSense/librealsense.git<br/>
-            •	cd librealsense<br/>
-            •	mkdir build && cd build<br/>
-            •	cmake ../ -DBUILD_EXAMPLES=true -DBUILD_GRAPHICAL_EXAMPLES=true<br/>
-            •	make<br/>
-            •	sudo make install<br/>
-            •	Install ROS using ROS installation guide given at intel aero drone<br/>
+        •	sudo apt-get -y install git libusb-1.0-0-dev pkg-config libgtk-3-dev libglfw3-dev cmake<br/>
+        •	git clone -b legacy --single-branch https://github.com/IntelRealSense/librealsense.git<br/>
+        •	cd librealsense<br/>
+        •	mkdir build && cd build<br/>
+        •	cmake ../ -DBUILD_EXAMPLES=true -DBUILD_GRAPHICAL_EXAMPLES=true<br/>
+        •	make<br/>
+        •	sudo make install<br/>
+        •	Install ROS using ROS installation guide given at intel aero drone<br/>
 
 
         
