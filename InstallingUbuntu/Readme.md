@@ -82,7 +82,5 @@ Caution: Remove wings from your drone before start
         •	sudo make install<br/>
         •	Install ROS using ROS installation guide given at intel aero drone<br/>
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XLQbQ4zkVrc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         
 Reference : https://github.com/intel-aero/meta-intel-aero/wiki/90-(References)-OS-user-Installation 
