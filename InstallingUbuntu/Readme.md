@@ -6,7 +6,7 @@ Caution: Remove wings from your drone before start
     http://old-releases.ubuntu.com/releases/16.04.3/ 
 2) Causion don’t use latest Ubuntu as it may not supported by aero drone
 3) Create bootable disk, I used rufus
-    ![](https://github.com/BhaskarTrivedi/Intel-Aero-Drone/blob/master/Img/BootablePD.jpg)
+    [![Click onto image watch video](https://github.com/BhaskarTrivedi/Intel-Aero-Drone/blob/master/Img/BootablePD.jpg)](https://www.youtube.com/watch?v=XLQbQ4zkVrc&t=28s)
  
 4) Make sure your drone is connected to power cable, battery is not enough for installation.
     visit https://github.com/BhaskarTrivedi/Intel-Aero-Drone/tree/master/MinimumThingYouShouldHaveToWorkOnIntelAeroDrone 
