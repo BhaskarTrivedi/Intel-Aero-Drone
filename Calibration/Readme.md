@@ -6,7 +6,7 @@ I perform basic radio, accelerometer and compass calibration.
 4)	Go to setting 
 5)	Select Radio 
 6)	Calibrate radio with mode 2
-[![Click onto image watch video](https://github.com/BhaskarTrivedi/Intel-Aero-Drone/blob/master/Img/CalibrationStart.JPG)][]
+[![Click onto image watch video](https://github.com/BhaskarTrivedi/Intel-Aero-Drone/blob/master/Img/CalibrationStart.JPG)]()
 ![](https://github.com/BhaskarTrivedi/Intel-Aero-Drone/blob/master/Img/CalibrationStart_2.JPG)
 7)	After radio calibration perform accelerometer calibration
 ![](https://github.com/BhaskarTrivedi/Intel-Aero-Drone/blob/master/Img/CalibrationStart_3.JPG)
